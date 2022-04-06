@@ -1,8 +1,12 @@
 #if !defined(HAMMING_H)
 #define HAMMING_H
 
-namespace hamming {
+#include <exception>
+#include <stdexcept>
+#include <string>
 
-}  // namespace hamming
+namespace hamming {
+unsigned int compute(std::string strand1, std::string strand2);
+} // namespace hamming
 
 #endif // HAMMING_H
