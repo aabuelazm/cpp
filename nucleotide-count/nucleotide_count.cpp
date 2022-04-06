@@ -8,9 +8,9 @@ counter::counter(std::string dna_sequence) {
   const auto last = end(valid_nucleotides);
 
   for (auto c : dna_sequence) {
-    if (find(first, last, c) != last) {
+    if (find(first, last, c) != last)
       this->nucleotides.at(c)++;
-    } else
+    else
       throw invalid_argument("Nucleotides can only be A, T, C, or G.");
   }
 }
