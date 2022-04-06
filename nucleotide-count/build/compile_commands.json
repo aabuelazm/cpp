@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/abdul/exercism/cpp/nucleotide-count/build",
+  "command": "/usr/bin/c++  -DEXERCISM_RUN_ALL_TESTS  -g   -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/nucleotide-count.dir/nucleotide_count_test.cpp.o -c /home/abdul/exercism/cpp/nucleotide-count/nucleotide_count_test.cpp",
+  "file": "/home/abdul/exercism/cpp/nucleotide-count/nucleotide_count_test.cpp"
+},
+{
+  "directory": "/home/abdul/exercism/cpp/nucleotide-count/build",
+  "command": "/usr/bin/c++  -DEXERCISM_RUN_ALL_TESTS  -g   -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/nucleotide-count.dir/nucleotide_count.cpp.o -c /home/abdul/exercism/cpp/nucleotide-count/nucleotide_count.cpp",
+  "file": "/home/abdul/exercism/cpp/nucleotide-count/nucleotide_count.cpp"
+},
+{
+  "directory": "/home/abdul/exercism/cpp/nucleotide-count/build",
+  "command": "/usr/bin/c++  -DEXERCISM_RUN_ALL_TESTS  -g   -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/nucleotide-count.dir/test/tests-main.cpp.o -c /home/abdul/exercism/cpp/nucleotide-count/test/tests-main.cpp",
+  "file": "/home/abdul/exercism/cpp/nucleotide-count/test/tests-main.cpp"
+}
+]
