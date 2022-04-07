@@ -16,6 +16,8 @@ unsigned int steps(long int input) {
       input = (input * 3) + 1;
     else
       input /= 2;
+
+    num_of_steps++;
   }
 
   return num_of_steps;
